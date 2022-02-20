@@ -1,1 +1,1 @@
-# kaggle
+# kaggle kernels(python)
